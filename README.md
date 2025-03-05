@@ -1,7 +1,7 @@
 ## How to run
 Pada directory canvasgkv lakukan:
 ```sh
-canvas-sketch sketch-01.js --open --output=output/01
+canvas-sketch sketch01.js --open --output=output/01
 ```
 
 ## Preview
