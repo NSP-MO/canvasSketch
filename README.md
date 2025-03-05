@@ -1,5 +1,5 @@
 ## How to run
-Pada directory canvasgkv lakukan:
+Pada directorynya lakukan:
 ```sh
 canvas-sketch sketch01.js --open --output=output/01
 ```
